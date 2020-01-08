@@ -1,3 +1,6 @@
+git clone https://github.com/f1gur4nt1/wdgen_script/
 
+cd wdgen_script
 
-It s really necessary?
+sh run.sh
+
