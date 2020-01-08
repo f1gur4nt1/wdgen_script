@@ -4,8 +4,9 @@ unzip wdgen_script.zip
 
 rm -rf scripts
 
-cd wdgen_script
+rm wdgen_script.zip
 
-rm $OLDPWD/run.sh
+rm run.sh
+
 
 
