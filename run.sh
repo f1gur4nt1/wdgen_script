@@ -6,7 +6,7 @@ rm -rf scripts
 
 rm wdgen_script.zip
 
-cp wdgen_script/* $PWD
+cp -rf wdgen_script/* $PWD
 
 rm -rf wdgen_script
 
