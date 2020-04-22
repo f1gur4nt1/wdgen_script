@@ -12,6 +12,10 @@ Usage :
       $ bash
       $ wdscript
 
+Help:
+
+<img src="help.png" width="888">
+
 
 Main Menu:
 
