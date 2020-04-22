@@ -1,10 +1,14 @@
 apt-get install unzip -y
 
-unzip wdgen_script.zip -d $PWD
+unzip wdgen_script.zip
 
 rm -rf scripts
 
 rm wdgen_script.zip
+
+cp wdgen_script/* $PWD
+
+rm -rf wdgen_script
 
 rm run.sh
 
