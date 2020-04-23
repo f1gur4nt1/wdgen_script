@@ -8,7 +8,7 @@ Usage :
       $ git clone https://github.com/f1gur4nt1/wdgen_script/
       $ cd wdgen_script
       $ sh run.sh
-      $ sh install.sh
+      $ cat install.sh | bash
       $ bash
       $ wdscript
 
